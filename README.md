@@ -2,12 +2,12 @@
 > Bookmarks that I ❤️ 
 ------------------------
 
-| [Blogs and Magazines](#blogs-and-magazines) |
-[Courses](#courses) |
+| [Bookmarks for Webdev](#bookmarks-for-webdev) |
+[Browser Extensions](#browser-extensions) |
+[Clean Code Notes](#clean-code-notes) |
+[Design Patterns](#design-patterns) |
 
-
-
-### Blogs and Magazines
+### Bookmarks for Webdev
 
 | Link  | Comments  | Tags  |
 | ----- | --------- | ----- |
@@ -16,7 +16,7 @@
 
 ------------------------
 
-### Courses
+### Browser Extensions
 
 | Link  | Comments  | Tags  |
 | ----- | --------- | ----- |
@@ -24,7 +24,7 @@
 
 ------------------------
 
-### Design Tools
+### Clean Code Notes
 
 | Link  | Comments  | Tags  |
 | ----- | --------- | ----- |
@@ -33,4 +33,8 @@
 
 ------------------------
 
-### Dev Tools
+### Design Patterns
+
+| Link  | Comments  | Tags  |
+| ----- | --------- | ----- |
+| 
