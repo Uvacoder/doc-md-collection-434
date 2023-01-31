@@ -2,10 +2,17 @@
 > Bookmarks that I ❤️ 
 ------------------------
 
-| [Bookmarks for Webdev](#bookmarks-for-webdev) |
-[Browser Extensions](#browser-extensions) |
+| [Browser Extensions](#browser-extensions) |
 [Clean Code Notes](#clean-code-notes) |
 [Design Patterns](#design-patterns) |
+[Html Head](#html-head) |
+[Newsletters](#newsletters) |
+[Public API's](#public-apis) |
+[Public API's Two](#public-apis-two) |
+[Webdev Bookmarks](#webdev-bookmarks) |
+[Webdev Resources](#webdev-resources) |
+[Startpages](#startpages) |
+
 
 ### Bookmarks for Webdev
 
@@ -38,3 +45,61 @@
 | Link  | Comments  | Tags  |
 | ----- | --------- | ----- |
 | 
+
+
+-------------------------
+
+### Html Head]
+
+| Link  | Comments  | Tags  |
+| ----- | --------- | ----- |
+| 
+-------------------------
+
+### Newsletters 
+
+| Link  | Comments  | Tags  |
+| ----- | --------- | ----- |
+| 
+
+---------------------
+
+### Public API's
+
+| Link  | Comments  | Tags  |
+| ----- | --------- | ----- |
+| 
+
+---------------------
+
+### Public API's Two
+
+| Link  | Comments  | Tags  |
+| ----- | --------- | ----- |
+| 
+
+---------------------
+
+### Webdev Bookmarks
+
+| Link  | Comments  | Tags  |
+| ----- | --------- | ----- |
+| 
+
+### Webdev Resources
+
+| Link  | Comments  | Tags  |
+| ----- | --------- | ----- |
+|
+
+
+---------------------
+
+### Startpages
+
+| Link  | Comments  | Tags  |
+| ----- | --------- | ----- |
+|
+
+
+---------------------
